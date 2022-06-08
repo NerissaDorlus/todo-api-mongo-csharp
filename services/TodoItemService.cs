@@ -43,5 +43,3 @@ public class TodoItemService : ITodoItemService
         throw new NotImplementedException();
     }
 }
-
-git add . && git commit  -m "todo list with csharp and monodb" && git
